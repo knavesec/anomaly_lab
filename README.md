@@ -10,3 +10,6 @@ Suggested Order in increasing difficulty:
 5. ncdc-2018-anomalies-master/right-there
 6. ncdc-2018-anomalies-master/reverse-engineering-I
 7. ncdc-2018-anomalies-master/reverse-engineering-II
+
+
+Note: Flags in the ncdc-2018-anomalies-master are of the format **cdc{*flag text*}**
