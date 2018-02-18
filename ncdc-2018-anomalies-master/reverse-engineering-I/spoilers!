@@ -1,0 +1,4 @@
+The way to solve this crackme was to open the file in a disassembler and examine the entrypoint function. 
+There you will find the dynamic assembly of a string that starts off by appending a space to "bios", 
+followed by appending 'i' and 's', etc... until the solution string 'bios is better' is built. 
+You can then test this by running the EFI program in QEMU under a UEFI shell

@@ -1,0 +1,4 @@
+The way to solve this crackme was to run the executable and then create a coredump or read from the process' 
+memory when it asked for an input. In this state, the code of interest was decrypted and making a coredump 
+allowed the actual code to be analyzed in a disassembler. Having made a memory/coredump, you can run strings 
+on it and find the above solution.
