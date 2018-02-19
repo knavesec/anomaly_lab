@@ -1,6 +1,8 @@
 # KUISC Anomaly Lab
 Puzzles within ncdc-2018-anomalies-master and rabbit_hole were created by the Iowa State University Cyber Defense team and Argonne National Labs, respectively
 
+**Linux or equivalent command terminal is highly recommended to work on these**
+
 Suggested Order in increasing difficulty:
 
 1. ncdc-2018-anomalies-master/crypto-maze
