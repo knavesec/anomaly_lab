@@ -9,9 +9,10 @@ Suggested Order in increasing difficulty:
 2. unknown 
 3. ncdc-2018-anomalies-master/sheep2
 4. rabbit_hole
-5. ncdc-2018-anomalies-master/right-there
-6. ncdc-2018-anomalies-master/reverse-engineering-I
+5. ncdc-2018-anomalies-master/reverse-engineering-I
+6. ncdc-2018-anomalies-master/right-there
 7. ncdc-2018-anomalies-master/reverse-engineering-II
 
 
 Note: Flags in the ncdc-2018-anomalies-master are of the format **cdc{*flag text*}**
+      For reverse engineering, the solution is the password that allows you to print success
