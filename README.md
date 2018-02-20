@@ -15,4 +15,5 @@ Suggested Order in increasing difficulty:
 
 
 Note: Flags in the ncdc-2018-anomalies-master are of the format **cdc{*flag text*}**
-      For reverse engineering, the solution is the password that allows you to print success
+
+For reverse engineering, the solution is the password that allows you to print success
