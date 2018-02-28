@@ -1,3 +1,5 @@
 You are given an unknown file. Find a way to run it and make it output the string "Success" and you shall be rewarded.
 
 If you do not succeed, talk about some of the steps you took and what you solved for partial credit.
+
+End Goal: find the password that makes the program output success
